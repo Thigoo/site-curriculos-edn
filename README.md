@@ -3,8 +3,8 @@ Front End desenvolvido para o grupo 08 da Escola da Nuvem onde será armazenado 
 
 #Integrantes
 
-Thayná Pacheco.
-Thiago Garcia.
-Victor Yghor.
-Wellington Brito.
-William Scher.
+<p>Thayná Pacheco</p>
+<p>Thiago Garcia</p>
+<p>Victor Yghor</p>
+<p>Wellington Brito</p>
+<p>William Scher</p>
